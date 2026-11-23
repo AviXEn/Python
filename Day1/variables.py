@@ -1,6 +1,6 @@
 # Variables are containers for storing data values.
 
-*** Variable is a memory space or a container that stores the digital data ***
+#*** Variable is a memory space or a container that stores the digital data ***
 
 #Some commonly used variable in python language are:
 1. interger (int) = stores the integer values
